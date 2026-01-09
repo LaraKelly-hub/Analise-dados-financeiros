@@ -20,8 +20,11 @@ O projeto teve como foco o desenvolvimento e o aprimoramento de habilidades em a
 🛠️ Ferramentas Utilizadas
 
 Jupyter Notebook
+
 Python
+
 Pandas
+
 Matplotlib
 
 📊 Resultados Obtidos
