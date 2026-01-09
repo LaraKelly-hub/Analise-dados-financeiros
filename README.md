@@ -23,5 +23,7 @@ Matplotlib
 
 📊 Resultados Obtidos
 Análise dos status de pagamento  --> Vencimento se destaca com maior número de clientes , mas clientes com status em atraso também chamam atenção!
+
 categoria de produto com maior preferência --> financiamento com 72 clientes.
+
 Procentagem de risco de crédito % --> 51.0% para risco alto. 
